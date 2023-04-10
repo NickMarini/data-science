@@ -109,6 +109,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+ds_env_38/
+ds-venv-38/
+ds-env/
 
 # Spyder project settings
 .spyderproject
